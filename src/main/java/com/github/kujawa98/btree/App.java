@@ -1,13 +1,8 @@
 package com.github.kujawa98.btree;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+    public static void main(String[] args) {
+        int d = Integer.parseInt(args[0]);
+        System.out.println(d);
     }
 }
