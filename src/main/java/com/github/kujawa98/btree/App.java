@@ -1,4 +1,4 @@
-package com.github.kujawa98;
+package com.github.kujawa98.btree;
 
 /**
  * Hello world!
